@@ -19,6 +19,7 @@ namespace EngEdu1
             Console.WriteLine("Year 2560 semester 1, I learn lab program c++.");
             Console.WriteLine("Year 2560 semester 2, I learn lab program ise design.");
             Console.WriteLine("Year 2561 semester 1, I learn lab program web tec.");
+            Console.WriteLine("Year 2561 semester 2, I am make end project .");
         }
     }
 }
