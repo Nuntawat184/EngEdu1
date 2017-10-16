@@ -15,6 +15,7 @@ namespace EngEdu1
             Console.WriteLine("Year 2558 semester 1, I learn subjcet calculus.");
             Console.WriteLine("Year 2558 semester 2, I learn subjcet program is C sharp.");
             Console.WriteLine("Year 2559 semester 1, I am selet sec computer .");
+            Console.WriteLine("Year 2559 semester 2, I learn lab K.piya.");
         }
     }
 }
